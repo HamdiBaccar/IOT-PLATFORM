@@ -1,2 +1,2 @@
 # IOT-PLATFORM
-an IOT platform designed to monitor an object locator system using an ESP32 card.
+an IOT platform designed to monitor a car and locate it using an Arduino card.
